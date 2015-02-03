@@ -19,8 +19,7 @@ module.exports = function(config) {
 
         // list of files to exclude
         exclude: [
-            './client/scripts/bundle*.js',
-            './client/scripts/main*.js'
+            './client/scripts/bundle*.js'
         ],
 
         // preprocess matching files before serving them to the browser
